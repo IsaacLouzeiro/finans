@@ -1,6 +1,6 @@
 # finans
 
-Website fictício de finança.
+Website fictício de finança. 
 
 Fictitious website of finance.
 
